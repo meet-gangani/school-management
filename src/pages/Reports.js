@@ -49,7 +49,7 @@ const Reports = () => {
               </div>
             </header>
             <div className="p-3">
-              <div className="my-4 overflow-x-auto">
+              <div className="my-2 overflow-x-auto">
                 <table className="table-auto w-full">
                   <thead className="text-xs font-semibold uppercase text-gray-400 bg-gray-50">
                   <tr>
@@ -63,7 +63,7 @@ const Reports = () => {
                       <div className="font-semibold text-left">Name</div>
                     </th>
                     <th>
-                      <div className="font-semibold text-left">ID</div>
+                      <div className="font-semibold text-left">Enrollment ID</div>
                     </th>
                     <th>
                       <div className="font-semibold text-left">Percentage</div>

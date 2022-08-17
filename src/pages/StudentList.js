@@ -64,7 +64,7 @@ class StudentList extends React.Component {
 
                     <button
                         onClick={() => window.location = '/student/add'}
-                        className="btn-add-student"
+                        className="btn-add-student h-full m-0"
                         type="button">+ ADD STUDENT
                     </button>
                   </div>
@@ -83,7 +83,7 @@ class StudentList extends React.Component {
                         <div className="font-semibold text-left">Name</div>
                       </th>
                       <th>
-                        <div className="font-semibold text-left">Student ID</div>
+                        <div className="font-semibold text-left">Enrollment ID</div>
                       </th>
                       <th>
                         <div className="font-semibold text-left">DOB</div>
