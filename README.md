@@ -88,14 +88,15 @@ A big shout out to all the contributers, more specifically to these guys
 
 - [meet-gangani](https://github.com/meet-gangani)
 
-####About
+##About
+
   SaaS based School Management System (SMS) to manage all school related activities. It aids to automate over all process and functions of any school. Easy to use and manage.
 
-####Topics
+Topics
 
 javascript html jquery open-source php school school-systems school-management school-management-system
 
-## License
+License
 
 Copyright (c) the respective developers and maintainers, as shown by the AUTHORS file.
 
