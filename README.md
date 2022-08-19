@@ -1,4 +1,4 @@
-# school-management
+# school-management (tailwind-css)
 
 - school management generate student report and manage students
 
